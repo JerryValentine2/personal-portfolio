@@ -34,9 +34,9 @@ An AI-powered medical information proof of concept. Users interact conversationa
 
 An AI-enabled productivity application focused on practical task, calendar, and communication workflows.
 
-- **Live Application:** [Open Cleo]([CLEO_APP_URL](https://clio.agilesolutionsinc.org/)
-- **Instructions:** [How to Use Cleo]([](https://clio.instructions.agilesolutionsinc.org/)
-- **Demo Video:** [Watch the Cleo Demo](https://youtu.be/dzxazFQNJvw?utm_source=chatgpt.com) 
+- **Live Application:** [Open Cleo](https://clio.agilesolutionsinc.org/)
+- **Instructions:** [How to Use Cleo](https://clio.instructions.agilesolutionsinc.org/)
+- **Demo Video:** [Watch the Cleo Demo](https://youtu.be/dzxazFQNJvw)
 
 **Status:** Functional prototype. Some issues are still being resolved; demo video in production.
 
