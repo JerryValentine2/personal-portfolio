@@ -8,9 +8,9 @@ A collection of working AI applications and product prototypes. Each project inc
 
 An AI application designed to provide an interactive, practical user experience.
 
-- **Live Application:** [Open Freya](FREYA_APP_URL)
-- **Instructions:** [How to Use Freya](FREYA_INSTRUCTIONS_URL)
-- **Demo Video:** [Watch the Freya Demo](FREYA_VIDEO_URL) *(coming soon)*
+- **Live Application:** [Open Freya](https://freya.wardrobe.agilesolutionsinc.org/)
+- **Instructions:** [How to Use Freya](https://freya.wardrobeinstructions.agilesolutionsinc.org/)
+- **Demo Video:** [Watch the Freya Demo](https://youtu.be/wKKVvpso55E) *(coming soon)*
 
 **Status:** Working application; demo video in production.
 
